@@ -60,6 +60,8 @@ Tested on a single GPU (not tested on CPU or multiple GPUs ).
 
 ## Usage
 
+`conda install pytorch==1.7.0 torchvision torchaudio torchtext cudatoolkit=11.0 -c pytorch`
+
 To train a model:
 
   `python -m signjoey train configs/example.yaml`
