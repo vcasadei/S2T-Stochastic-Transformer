@@ -7,7 +7,7 @@ data:
     gls: gloss
     train: train12.gzip
     dev:   dev12.gzip
-    test:  test12gzip
+    test:  test12.gzip
     feature_size: 1024
     level: word
     txt_lowercase: true
